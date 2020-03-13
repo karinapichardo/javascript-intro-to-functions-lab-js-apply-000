@@ -28,3 +28,4 @@ var mixedCase = 'I love you, too.'
 mixedCase.toLowerCase() === mixedCase;
 
 mixedCase.toUpperCase() === mixedCase;
+return mixedCase
