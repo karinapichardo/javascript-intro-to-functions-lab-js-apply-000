@@ -19,16 +19,3 @@ function sayHiToGrandma(string) {
   } else if (string === 'I love you, Grandma.')
   return ('I love you, too.')
 }
-var lowerCase = 'I can\'t hear you!'
-  
-lowerCase.toLowerCase() === lowerCase; 
-
-var upperCase = 'YES INDEED!'
-  
-upperCase.toUpperCase() === upperCase; 
-  
-var mixedCase = 'I love you, too.'
-  
-mixedCase.toLowerCase() === mixedCase;
-
-mixedCase.toUpperCase() === mixedCase;
