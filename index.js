@@ -17,7 +17,7 @@ function sayHiToGrandma(string) {
 }
 else {
     return upperCase
-}if()
+}if ()
 }
 
 
