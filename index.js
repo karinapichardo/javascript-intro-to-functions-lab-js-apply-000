@@ -24,14 +24,14 @@ else if (upperCase.toUpperCase() === upperCase) {
 
 var lowerCase = 'I can\'t hear you!'
   
-lowerCase.toLowerCase() === lowerCase; 
+//lowerCase.toLowerCase() === lowerCase; 
 
 var upperCase = 'YES INDEED!'
   
-upperCase.toUpperCase() === upperCase; 
+//upperCase.toUpperCase() === upperCase; 
   
 var mixedCase = 'I love you, too.'
   
-mixedCase.toLowerCase() === mixedCase;
+//mixedCase.toLowerCase() === mixedCase;
 
 mixedCase.toUpperCase() === mixedCase;
