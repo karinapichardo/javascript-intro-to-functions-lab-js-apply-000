@@ -12,7 +12,12 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  
+  if (condition) {
+    // code to run when condition is true
+}
+else {
+    // code to run when condition is not true
+}
 }
 
 
