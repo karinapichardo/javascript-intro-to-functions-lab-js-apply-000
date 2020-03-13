@@ -27,3 +27,6 @@ mixedCase.toLowerCase() === mixedCase
 
 mixedCase.toUpperCase() === mixedCase
 
+var lowerCase = 'I can\'t hear you!'
+  
+lowerCase.toLowerCase() === lowerCase 
