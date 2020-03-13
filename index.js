@@ -12,11 +12,11 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if () {
-    // code to run when condition is true
+  if (lowerCase.toLowerCase() === lowerCase) {
+    return lowerCase
 }
 else {
-    // code to run when condition is not true
+    return upperCase
 }
 }
 
