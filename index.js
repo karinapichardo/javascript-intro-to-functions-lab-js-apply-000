@@ -17,6 +17,7 @@ function sayHiToGrandma(string) {
 
 
 
+
 var upperCase = 'YES INDEED!'
   
 upperCase.toUpperCase() === upperCase 
@@ -26,7 +27,3 @@ var mixedCase = 'I love you, too.'
 mixedCase.toLowerCase() === mixedCase
 
 mixedCase.toUpperCase() === mixedCase
-
-var lowerCase = 'I can\'t hear you!'
-  
-lowerCase.toLowerCase() === lowerCase 
